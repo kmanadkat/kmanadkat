@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**kmanadkat/kmanadkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Krupesh Anadkat 👨‍💻
 
-Here are some ideas to get you started:
+I'm Full Stack Software Engineer. Passionate about designing & creating apps (web or mobile) that help solving day to day problems. I focus on building quality & user friendly apps. I also like teaching & sharing my knowledge by speech or blog posts. Proficient at React Js, Redux, Flutter, React Native & Node Express 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### 🔭 I'm upskilling everyday & looking forward to contribute in open source projects.
+
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🕹 React Js | Redux
+* 📱 Flutter | React Native
+* 🛢️ MongoDB | PostgreSQL | MySQL
+* ☁️ Firebase Authentication | Cloud Functions | Firestore | Hosting
+* :octocat: Git | Github
+* 🌐 Bootstrap | HTML | CSS
+* 📟 Raspberry PI | Arduino
+
+
+## ⛳️ Most Recent Projects
+
+Below are some of my most recent projects
+
+* [Full Stack React Redux Firebase Project](https://github.com/kmanadkat/react-redux-firebase-firestore)
+* [Udacity ND : Would You Rather - Polling React Redux Project](https://github.com/kmanadkat/would-you-rather-nd)
+* [Udacity ND : FlashCards React Native App](https://github.com/kmanadkat/FlashCards)
+* [World Time Flutter App](https://github.com/kmanadkat/flutter-world-time-app)
+* [Learning Blockchain Fundamentals - Js](https://github.com/kmanadkat/learn-blockchain)
+
+Few other interesting ones with OpenCV, Flask, Hapi Js, Node Express could also be found.
+
+
+## 📫 Get in touch
+
+- LinkedIn - [Krupesh Anadkat](https://www.linkedin.com/in/kmanadkat/)
+- Medium - [Blog Posts](https://medium.com/@kmanadkat)
+
+ or hit my mailbox on [mail](mailto:kmanadkat@gmail.com)
