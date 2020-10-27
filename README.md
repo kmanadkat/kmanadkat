@@ -14,6 +14,7 @@ Here are a few things I've picked up along my learning journey.
 * 🕹 React Js | Redux
 * 📱 Flutter | React Native
 * 🛢️ MongoDB | PostgreSQL | MySQL
+* 📦 REST APIs - Node Express | Python Flask
 * ☁️ Firebase Authentication | Cloud Functions | Firestore | Hosting
 * :octocat: Git | Github
 * 🌐 Bootstrap | HTML | CSS
