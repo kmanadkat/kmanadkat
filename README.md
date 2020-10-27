@@ -28,6 +28,7 @@ Below are some of my most recent projects
 * [Full Stack React Redux Firebase Project](https://github.com/kmanadkat/react-redux-firebase-firestore)
 * [Udacity ND : Would You Rather - Polling React Redux Project](https://github.com/kmanadkat/would-you-rather-nd)
 * [Udacity ND : FlashCards React Native App](https://github.com/kmanadkat/FlashCards)
+* [Udacity ND : UdaciFitness React Native App](https://github.com/kmanadkat/UdaciFitness)
 * [World Time Flutter App](https://github.com/kmanadkat/flutter-world-time-app)
 * [Learning Blockchain Fundamentals - Js](https://github.com/kmanadkat/learn-blockchain)
 
