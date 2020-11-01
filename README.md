@@ -26,6 +26,7 @@ Here are a few things I've picked up along my learning journey.
 Below are some of my most recent projects
 
 * [Full Stack React Redux Firebase Project](https://github.com/kmanadkat/react-redux-firebase-firestore)
+* [Udacity ND : My Reads - React Js & React Router Fundamentals](https://github.com/kmanadkat/ud-my-reads)
 * [Udacity ND : Would You Rather - Polling React Redux Project](https://github.com/kmanadkat/ud-would-you-rather)
 * [Udacity ND : FlashCards React Native App](https://github.com/kmanadkat/ud-flash-cards)
 * [Udacity ND : UdaciFitness React Native App](https://github.com/kmanadkat/ud-udacifitness)
