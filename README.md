@@ -2,6 +2,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Krupesh Anadkat 👨‍💻
 ![](https://komarev.com/ghpvc/?username=kmanadkat&color=blue)
 
+<img src="./Dark Cover.jpg" width="100%">
+
 I'm Full Stack Software Engineer. Passionate about designing & creating apps (web or mobile) that help solving day to day problems. I focus on building quality & user friendly apps. I also like teaching & sharing my knowledge by speech or blog posts. Proficient at React Js, Redux, Flutter, React Native & Node Express 
 
 
