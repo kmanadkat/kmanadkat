@@ -1,6 +1,5 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Krupesh Anadkat 👨‍💻
-![](https://komarev.com/ghpvc/?username=kmanadkat&color=blue)
 
 <img src="./Dark Cover.jpg" width="100%">
 
@@ -54,3 +53,5 @@ Few other interesting ones with OpenCV, Flask, Hapi Js, Node Express could also 
 - Medium - [Blog Posts](https://medium.com/@kmanadkat)
 
  or hit my mailbox on [mail](mailto:kmanadkat@gmail.com)
+ 
+![](https://komarev.com/ghpvc/?username=kmanadkat&color=blue)
