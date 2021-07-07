@@ -25,12 +25,11 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/kmanadkat">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kmanadkat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kmanadkat&layout=compact&langs_count=8&theme=algolia"/>
+<p align="start">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kmanadkat&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kmanadkat&layout=compact&langs_count=8&theme=solarized-dark"/>
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmanadkat&theme=solarized_dark"/>
-  
-</a>
+</p>
 
 
 
