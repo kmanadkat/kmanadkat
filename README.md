@@ -13,7 +13,9 @@ I'm Full Stack Software Engineer. Passionate about designing & creating apps (we
 
 Here are a few things I've picked up along my learning journey.
 
-* 🕹 React Js | Redux
+* 👨🏻‍💻 Typescript
+* 🗃 Docker
+* 🕹 React Js | Redux | Redux Toolkit | Hooks
 * 📱 Flutter | React Native
 * 🛢️ MongoDB | PostgreSQL | MySQL
 * 📦 REST APIs - Node Express | Python Flask
